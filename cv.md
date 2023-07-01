@@ -73,3 +73,22 @@ Qualification obtained: **Specialist in Intercultural Communications. Interprete
     * Adobe Fine Reader, Adobe Reader, Adobe Acrobat, Memsourse
 * IT development
     * GitHub *(will be updated upon completion of RS School)*    
+    
+## Code Examples
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+```
+function greet(helloWorld) {
+  return 'hello world!'
+  }
+```
+
+## Existing Projects
+
+### CV Markdown & Git - [GitHub link](https://github.com/chikchirikk/rsschool-cv)
+
+*more to be added soon*
