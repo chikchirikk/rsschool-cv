@@ -1,12 +1,14 @@
 #   Viktoryia Chetsviaryk
 
+![](https://imageup.ru/img249/4409391/msg278854418-131742.jpg.html)
+
 ## Personal information
 
 **Date of birth:** 27/08/1999 | **Nationality:** Belarusian | **Gender:** Female 
 
 **Phone number:** (+375) 291384664 *(Mobile)* | **Email address:** <vikachetverik11@gmail.com>, <vikachetverik1@gmail.com> 
 
- **Telegram:** @chikchirik | **Git Hub:** [chikchirikk](https://github.com/chikchirikk)
+ **Telegram:** @chikchirik | **Git Hub:** [chikchirikk](https://github.com/chikchirikk) | **Discord:** Vika Ch (@chikchirikk)
 
 ## Work Experience
 
@@ -59,3 +61,15 @@ Qualification obtained: **Specialist in Intercultural Communications. Interprete
 ### **ENGLISH**: Proficient User (C2)
 
 ### **ITALIAN**: Intermidiate User (B1)
+
+## Digital Skills
+
+* Microsoft Office
+* Communication Services
+    * Telegram, Instagram, Zoom, Skype, Twitter
+* Mailing Services
+    * Gmail, the bat!, Yandex Mail
+* Document handling and translation
+    * Adobe Fine Reader, Adobe Reader, Adobe Acrobat, Memsourse
+* IT development
+    * GitHub *(will be updated upon completion of RS School)*    
