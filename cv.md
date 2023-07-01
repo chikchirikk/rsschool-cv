@@ -2,7 +2,7 @@
 
 ## Personal information
 
-** Date of birth:** 27/08/1999 | **Nationality:** Belarusian | **Gender:** Female 
+**Date of birth:** 27/08/1999 | **Nationality:** Belarusian | **Gender:** Female 
 
 **Phone number:** (+375) 291384664 *(Mobile)* | **Email address:** <vikachetverik11@gmail.com>, <vikachetverik1@gmail.com> 
 
@@ -43,3 +43,19 @@ Main responsibilities:
 3. beverages and menu items preparation.
 
 4. new crew members training
+
+## Education
+
+### MINSK STATE LINGUISTIC UNIVERSITY - *01/09/2018 - 30/01/2022
+
+Qualification obtained: **Specialist in Intercultural Communications. Interpreter Assistant of English and Italian Languages**
+
+*Address*: 21 Zakharova st., Minsk, Belarus | *Website* <https://mslu.by/>
+
+## Language Skills
+
+### Mother tongue(s): **RUSSIAN, BELARUSIAN**
+
+### **ENGLISH**: Proficient User (C2)
+
+### **ITALIAN**: Intermidiate User (B1)
